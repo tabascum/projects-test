@@ -1,0 +1,66 @@
+.page-title{
+  font-size: 25px;
+  font-family: Tahoma;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.description{
+  font-size: 20px;
+  font-style: italic;
+  color: grey;
+  font-family: Tahoma;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+input{
+  font-family: Tahoma;
+  font-size: 15px;
+  width: 400px;
+  cursor: pointer;
+  display:block;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button{
+  background-color: rgb(146, 131, 131);
+  color: white;
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  margin-top: 40px;
+  box-shadow: 3px 3px 5px grey;
+  transition: 0.2s;
+}      
+
+button:hover{
+  background-color: white;;
+  color: rgb(146, 131, 131);
+}
+
+button:active{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: none;
+}
+
+.tabascum{
+  display: block;
+  font-family: 'Beau Rivage', cursive;
+  font-size: 40px;
+  font-style: italic;
+  color: rgb(233, 225, 225);
+  text-align: center;
+  margin-top: 220px;
+}
